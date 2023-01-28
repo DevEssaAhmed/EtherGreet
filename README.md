@@ -24,7 +24,7 @@ Dapp using Hardhat
 ## Demo
 
 Live URL
-https://essaahmd.github.io/CRUD-Recipe-App-React/
+https://ethergreet.netlify.app/
 
 
 
